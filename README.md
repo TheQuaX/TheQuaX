@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/derquax" target="blank"><img src="https://img.shields.io/twitter/follow/derquax?logo=twitter&style=for-the-badge" alt="derquax" /></a> </p>
 
-- 🔭 I’m currently working on **several small projects**
+- 💻 I’m currently working on **several small projects**
 
 - 💬 Ask me about **unity, unity-bugs, series**
 
