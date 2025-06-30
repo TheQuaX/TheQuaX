@@ -67,6 +67,13 @@
 
 </div>
 
+### 📈 Activity
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thequax&theme=react-dark&hide_border=true)
+
+</div>
+
 ---
 
 ## 🛠️ Portfolio
@@ -85,13 +92,6 @@
 | 🐍 **Python Projects** | Automation, Data Processing | ⭐⭐⭐⭐ |
 | 💻 **C# Applications** | Desktop Apps, Backend Services | ⭐⭐⭐⭐ |
 | 🌐 **Frontend Development** | Responsive Web Design | ⭐⭐⭐ |
-
-### 📈 Activity
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thequax&theme=react-dark&hide_border=true)
-
-</div>
 
 ---
 
