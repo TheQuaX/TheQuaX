@@ -5,6 +5,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=thequax&label=Profile%20views&color=0e75b6&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/thequax?style=social)](https://github.com/thequax)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/thequax)
+
+<a href='https://ko-fi.com/B0B1HVHQW' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 ---
