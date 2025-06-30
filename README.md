@@ -66,11 +66,10 @@
 | Area | Description | Status |
 |------|-------------|--------|
 | 🧪 **Software Testing** | Test Management, Quality Assurance | ⭐⭐⭐⭐⭐ |
-| 🔧 **DevOps** | CI/CD, Automation, Deployment | ⭐⭐⭐⭐ |
-| 🎮 **Unity Development** | Game Development, Interactive Apps | ⭐⭐⭐⭐⭐ |
-| 🐍 **Python Projects** | Automation, Data Processing | ⭐⭐⭐⭐ |
-| 💻 **C# Applications** | Desktop Apps, Backend Services | ⭐⭐⭐⭐ |
-| 🌐 **Frontend Development** | Responsive Web Design | ⭐⭐⭐ |
+| 🎮 **Unity Development** | Game Development, Interactive Apps, VR, AR | ⭐⭐⭐⭐⭐ |
+| 🐍 **Python Projects** | Automation, Data Processing | ⭐⭐⭐⭐⭐ |
+| 💻 **C# Applications** | Desktop Apps, Backend Services | ⭐⭐⭐⭐⭐ |
+| 🌐 **Frontend Development** | Responsive Web Design | ⭐⭐⭐⭐ |
 
 ### 📈 Activity
 <div align="center">
@@ -90,8 +89,8 @@
 **Feel free to ask me about testing strategies, DevOps practices, Unity, Unity bugs, or interesting series!**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thequax)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/206098794922770432)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@quax-interactive.com)
 
 </div>
 
