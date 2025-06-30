@@ -25,7 +25,6 @@
 
 ### 💻 Tech Stack
 <div align="center">
-
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
@@ -33,8 +32,13 @@
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Tosca](https://img.shields.io/badge/Tosca-FF6900?style=for-the-badge&logo=tricentis&logoColor=white)
+
+
+![LoadRunner](https://img.shields.io/badge/LoadRunner-00B4D8?style=for-the-badge&logo=microfocus&logoColor=white)
+![NeoLoad](https://img.shields.io/badge/NeoLoad-FF6B35?style=for-the-badge&logo=neotys&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![qTest](https://img.shields.io/badge/qTest-4285F4?style=for-the-badge&logo=tricentis&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
