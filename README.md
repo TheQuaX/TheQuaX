@@ -62,6 +62,7 @@
 
 ### 📊 GitHub Stats
 <div align="center">
+  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thequax&layout=compact&theme=dark&hide_border=true)
 
 </div>
