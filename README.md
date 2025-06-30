@@ -62,8 +62,6 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=thequax&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thequax&layout=compact&theme=dark&hide_border=true)
 
 </div>
