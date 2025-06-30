@@ -29,11 +29,21 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 </div>
 
@@ -66,10 +76,11 @@
 | Area | Description | Status |
 |------|-------------|--------|
 | 🧪 **Software Testing** | Test Management, Quality Assurance | ⭐⭐⭐⭐⭐ |
-| 🎮 **Unity Development** | Game Development, Interactive Apps, VR, AR | ⭐⭐⭐⭐⭐ |
-| 🐍 **Python Projects** | Automation, Data Processing | ⭐⭐⭐⭐⭐ |
-| 💻 **C# Applications** | Desktop Apps, Backend Services | ⭐⭐⭐⭐⭐ |
-| 🌐 **Frontend Development** | Responsive Web Design | ⭐⭐⭐⭐ |
+| 🔧 **DevOps** | CI/CD, Automation, Deployment | ⭐⭐⭐⭐ |
+| 🎮 **Unity Development** | Game Development, Interactive Apps | ⭐⭐⭐⭐⭐ |
+| 🐍 **Python Projects** | Automation, Data Processing | ⭐⭐⭐⭐ |
+| 💻 **C# Applications** | Desktop Apps, Backend Services | ⭐⭐⭐⭐ |
+| 🌐 **Frontend Development** | Responsive Web Design | ⭐⭐⭐ |
 
 ### 📈 Activity
 <div align="center">
@@ -106,7 +117,7 @@
 
 <div align="center">
 
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+*"Testing shows the presence, not the absence of bugs."* – Edsger W. Dijkstra
 
 **⭐ Don't forget to star interesting repos! ⭐**
 
