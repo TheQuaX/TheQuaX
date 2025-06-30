@@ -1,12 +1,114 @@
-<h1 align="center">Hi, I'm Alex (TheQuaX)</h1>
-<h3 align="center">A frontend developer from Germany</h3>
-<h4 align="center">Mostly <b>C#</b> and <b>Python</b></h4>
+# 👋 Hi, I'm Alex (TheQuaX)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thequax&label=Profile%20views&color=0e75b6&style=flat" alt="thequax" /> </p>
+<div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=thequax&label=Profile%20views&color=0e75b6&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/thequax?style=social)](https://github.com/thequax)
 
+</div>
 
-- 💻 I’m currently working on **several small projects**
+---
 
-- 💬 Ask me about **unity, unity-bugs, series**
+## 📋 Summary
 
+**Software Tester & Test Manager from Germany** with DevOps experience, focusing on modern web technologies and desktop applications. Specialized in **C#** and **Python** development, with a special passion for Unity Game Development.
+
+```
+🎯 Current Status: Working as Software Tester & Test Manager + DevOps
+🔍 Areas of Interest: Testing, DevOps, Unity, Web Development
+💡 Always open to: New challenges and collaborations
+```
+
+---
+
+## 🚀 About Me
+
+### 💻 Tech Stack
+<div align="center">
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+</div>
+
+### 🎮 Focus Areas
+- **Software Testing & Test Management**: Quality assurance and test strategy
+- **DevOps**: CI/CD pipelines, automation, and deployment
+- **Unity Development**: Games and interactive applications
+- **Frontend Development**: Modern, responsive websites
+- **Desktop Applications**: Cross-platform solutions
+- **Problem Solving**: Unity bugs and technical challenges
+
+### 📊 GitHub Stats
+<div align="center">
+
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=thequax&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thequax&layout=compact&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+## 🛠️ Portfolio
+
+### 🌟 Current Projects
+> 💼 **Working as Software Tester & Test Manager** - Ensuring quality and managing test processes
+> 🔧 **DevOps Activities** - Automating workflows and improving deployment processes
+> 💻 **Several small side projects** - Experimenting with new technologies and concepts
+
+### 🎯 Expertise Areas
+| Area | Description | Status |
+|------|-------------|--------|
+| 🧪 **Software Testing** | Test Management, Quality Assurance | ⭐⭐⭐⭐⭐ |
+| 🔧 **DevOps** | CI/CD, Automation, Deployment | ⭐⭐⭐⭐ |
+| 🎮 **Unity Development** | Game Development, Interactive Apps | ⭐⭐⭐⭐⭐ |
+| 🐍 **Python Projects** | Automation, Data Processing | ⭐⭐⭐⭐ |
+| 💻 **C# Applications** | Desktop Apps, Backend Services | ⭐⭐⭐⭐ |
+| 🌐 **Frontend Development** | Responsive Web Design | ⭐⭐⭐ |
+
+### 📈 Activity
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thequax&theme=react-dark&hide_border=true)
+
+</div>
+
+---
+
+## 📞 Contact
+
+<div align="center">
+
+### 💬 Let's connect!
+
+**Feel free to ask me about testing strategies, DevOps practices, Unity, Unity bugs, or interesting series!**
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thequax)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+### 🤝 Open for
+- 💼 **Collaborations** on interesting projects
+- 🧪 **Consulting** on testing strategies and quality assurance
+- 🔧 **DevOps discussions** and automation solutions
+- 🎓 **Mentoring** with Unity and C# questions
+- 💡 **Discussions** about new technologies
+- 🎮 **Game Development** partnerships
+
+---
+
+<div align="center">
+
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+**⭐ Don't forget to star interesting repos! ⭐**
+
+</div>
